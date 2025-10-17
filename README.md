@@ -1,5 +1,5 @@
 A) Documentos de requisitos de negocio contemplando os riscos, desafios e licoes aprendidas. 
-Tambem um documento de escopo de projeto com todos os entregaveis , projeto com grande impacto na corporação que deu certo. 
+,projeto com todos os entregaveis , projeto com grande impacto na corporação que deu certo onde foi automatizado o processo de emissao de documentos, eliminando o papel. 
 
 B) Projeto conferencia de coleta, onde foi coletado os requisitos realizados as homologações e implantações reduzindo a falta de coleta em 30%.
 
